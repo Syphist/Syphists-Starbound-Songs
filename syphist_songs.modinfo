@@ -1,0 +1,10 @@
+{
+  "name" : "syphist_songs",
+  "path" : ".",
+  "dependencies" : [],
+  "metadata" : {
+    "author" : "Syphist",
+    "version" : "1.0",
+    "description" : "Some extra songs"
+  }
+}

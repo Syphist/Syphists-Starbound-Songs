@@ -1,0 +1,427 @@
+A Hat in Time - Battle of Award 42.abc
+A Hat in Time - Your Contract Has Expired.abc
+Albinoni - Adagio Both.abc
+Albinoni - Adagio Piano.abc
+Albinoni - Adagio Solo.abc
+Beethoven - Fur Elise Both.abc
+Beethoven - Fur Elise Piano.abc
+Beethoven - Fur Elise Solo.abc
+Breath of the Wild - Dark Beast Ganon (Phase 1).abc
+Breath of the Wild - Daruk's Theme.abc
+Breath of the Wild - Divine Beast Vah Medoh.abc
+Breath of the Wild - Divine Beast Vah Naboris.abc
+Breath of the Wild - Divine Beast Vah Ruta.abc
+Breath of the Wild - Guardian Theme.abc
+Breath of the Wild - Hyrule Castle (Inside).abc
+Breath of the Wild - Hyrule Castle (Outside).abc
+Breath of the Wild - Kass's Theme.abc
+Breath of the Wild - Korok Forest.abc
+Breath of the Wild - Mipha's Theme.abc
+Breath of the Wild - Molduga Boss Theme.abc
+Breath of the Wild - Parasailing Minigame.abc
+Breath of the Wild - Prince Sidon's Theme.abc
+Breath of the Wild - Revali's Theme.abc
+Breath of the Wild - Stables Drumkit.abc
+Breath of the Wild - Stables.abc
+Breath of the Wild - Steppe Talus.abc
+Breath of the Wild - Urbosa's Theme.abc
+Cave Story - Balrog's Theme.abc
+Cave Story - Grasstown.abc
+Cave Story - Last Battle.abc
+Cave Story - Last Cave.abc
+Cave Story - Plantation.abc
+Cave Story - Running Hell.abc
+Dig Dug - Theme (5 minutes).abc
+Dig Dug - Theme.abc
+DOOM - I Sawed The Demons Drumkit.abc
+DOOM - I Sawed The Demons.abc
+DOOM - Kitchen Ace Drumkit.abc
+DOOM - Kitchen Ace.abc
+DOOM - On The Hunt Drumkit.abc
+DOOM - On The Hunt.abc
+DOOM - Suspense.abc
+Earthbound - Paula.abc
+Earthbound - Welcome to Saturn Valley.abc
+Faure - Pavane Both.abc
+Faure - Pavane Part 1.abc
+Faure - Pavane Part 2.abc
+Faure - Pavane Solo.abc
+Final Fantasy I - Battle Drumkit.abc
+Final Fantasy I - Battle.abc
+Final Fantasy I - Prelude.abc
+Final Fantasy IV - Airship Drumkit.abc
+Final Fantasy IV - Airship.abc
+Final Fantasy IV - Boss Drumkit.abc
+Final Fantasy IV - Boss.abc
+Final Fantasy IV - Town.abc
+Final Fantasy IV - Victory Fanfare Drumkit.abc
+Final Fantasy IV - Victory Fanfare.abc
+Final Fantasy VI - Battle Drumkit.abc
+Final Fantasy VI - Battle.abc
+Final Fantasy VI - Boss Drumkit.abc
+Final Fantasy VI - Boss.abc
+Final Fantasy VI - Victory Drumkit.abc
+Final Fantasy VI - Victory.abc
+Garfield (Genesis) - Count Slobula's Castle.abc
+Golden Axe - Battlefield.abc
+Golden Axe - Old Map.abc
+Golden Axe - Path of the Fiend.abc
+Golden Axe - The Showdown Drumkit.abc
+Golden Axe - The Showdown.abc
+Golden Axe - Wilderness Drumkit.abc
+Golden Axe - Wilderness.abc
+Golden Sun - Battle! [Isaac] Drumkit.abc
+Golden Sun - Battle! [Isaac].abc
+Golden Sun - Title Theme Drumkit.abc
+Golden Sun - Title Theme.abc
+Golden Sun - VS Saturos Drumkit.abc
+Golden Sun - VS Saturos.abc
+Golden Sun 2 - Battle! [Felix] Drumkit.abc
+Golden Sun 2 - Battle! [Felix].abc
+Halo - Action Drumkit.abc
+Halo - Action.abc
+Halo - Unforgotten.abc
+Halo - Walk in the Woods Drumkit.abc
+Halo - Walk in the Woods.abc
+Halo 2 - Mjolnir Mix Drumkit.abc
+Halo 2 - Mjolnir Mix.abc
+Halo 3 - Never Forget.abc
+Halo 3 - One Final Effort Both.abc
+Halo 3 - One Final Effort Lead.abc
+Halo 3 - One Final Effort Violin.abc
+Halo Reach - Overture.abc
+Homestuck - Carne Vale Drumkit.abc
+Homestuck - Carne Vale.abc
+Homestuck - Cascade.abc
+Homestuck - Descend.abc
+Homestuck - Heir of Grief.abc
+Inception - Dream Collapsing.abc
+Inception - Requiem for a Dream.abc
+Kingdom Hearts - Destiny Islands Drumkit.abc
+Kingdom Hearts - Destiny Islands.abc
+Kingdom Hearts II - The 13th Struggle Drumkit.abc
+Kiniro Mosaic - Jumping!!.abc
+Lazy Town - We Are Number One Drumkit.abc
+Lazy Town - We Are Number One.abc
+Led Zeppelin - Stairway to Heaven All.abc
+Led Zeppelin - Stairway to Heaven Drumkit.abc
+list.txt
+LoZ Spirit Tracks - Aboda Village.abc
+LoZ Spirit Tracks - Castle Town.abc
+LoZ Spirit Tracks - In Town.abc
+LoZ Spirit Tracks - Mini Boss.abc
+LoZ Spirit Tracks - Overworld.abc
+LoZ Spirit Tracks - The Spirit Flute.abc
+Lynyrd Skynyrd - Free Bird Drumkit.abc
+Lynyrd Skynyrd - Free Bird.abc
+Lynyrd Skynyrd - Sweet Home Alabama Drumkit.abc
+Lynyrd Skynyrd - Sweet Home Alabama.abc
+M A S H Theme.abc
+Marathon - Splash Drumkit.abc
+Marathon - Splash.abc
+Mario & Luigi Superstar Saga - Battle Drumkit.abc
+Mario & Luigi Superstar Saga - Battle.abc
+Mario 64 - Bob-omb Battlefield Drumkit.abc
+Mario 64 - Bob-omb Battlefield.abc
+Mario 64 - Cool Cool Mountain.abc
+Mario 64 - Dire Dire Docks.abc
+Mario 64 - Secret Slide.abc
+Mario Kart 64 - Rainbow Road Drumkit.abc
+Mario Kart 64 - Rainbow Road.abc
+Mario Kart Super Circuit - Beach Drumkit.abc
+Mario Kart Super Circuit - Beach.abc
+Mario Kart Super Circuit - Congratulations Drumkit.abc
+Mario Kart Super Circuit - Congratulations.abc
+Mario Kart Super Circuit - Sky Garden Drumkit.abc
+Mario Kart Super Circuit - Sky Garden.abc
+Megaman - Cutman Drumkit.abc
+Megaman - Cutman.abc
+Megaman 2 - Airman.abc
+Megaman 2 - Boss Theme Drumkit.abc
+Megaman 2 - Boss Theme.abc
+Megaman 2 - Intro.abc
+Megaman 2 - Metalman.abc
+Megaman 2 - Wily 1 Drumkit.abc
+Megaman 2 - Wily 1.abc
+Megaman 2 - Woodman Drumkit.abc
+Megaman 2 - Woodman.abc
+Megaman 3 - Boss Drumkit.abc
+Megaman 3 - Boss.abc
+Megaman 3 - Geminiman Drumkit.abc
+Megaman 3 - Geminiman.abc
+Megaman 3 - Title Drumkit.abc
+Megaman 3 - Title.abc
+Megaman 4 - Theme Drumkit.abc
+Megaman 4 - Theme.abc
+Metroid - Brinstar.abc
+Metroid - Item Found.abc
+Metroid - Kraid's Lair.abc
+Metroid - Ridley.abc
+Metroid - Zero Mission.abc
+Metroid Fusion - Deep Sector 4.abc
+Metroid Fusion - Final Mission Drumkit.abc
+Metroid Fusion - Final Mission.abc
+Metroid Fusion - Frozen in Time.abc
+Metroid Fusion - Main Theme Drumkit.abc
+Metroid Fusion - Main Theme.abc
+Metroid Fusion - SA-X Encounter.abc
+Metroid Fusion - Title Screen.abc
+Metroid Fusion - VS B.O.X. Drumkit.abc
+Metroid Fusion - VS B.O.X..abc
+Metroid Fusion - VS Ridley-X Drumkit.abc
+Metroid Fusion - VS Ridley-X.abc
+Metroid Fusion - VS Serris Drumkit.abc
+Metroid Fusion - VS Serris.abc
+Metroid II - Main Tunnel Theme Drumkit.abc
+Metroid II - Main Tunnel Theme.abc
+Metroid Prime - Tallon Overworld Drumkit.abc
+Metroid Prime - Tallon Overworld.abc
+Metroid Zero Mission - Norfair Drumkit.abc
+Metroid Zero Mission - Norfair.abc
+Minecraft - Calm 1.abc
+Minecraft - Hal 2.abc
+Minecraft - Piano 2.abc
+Myst Theme.abc
+NOMA - Brain Power.abc
+Nutshack Theme but it is in Starbound.abc
+Nutshack Theme Drumkit part but it is in Starbound.abc
+Overwatch - Main Theme Drumkit.abc
+Overwatch - Main Theme.abc
+Overwatch - Play of the Game.abc
+Pitfall 2 - Themes Drumkit.abc
+Pitfall 2 - Themes.abc
+Pokemon DPPt - Battle vs Frontier Brain Drumkit.abc
+Pokemon DPPt - Battle vs Frontier Brain.abc
+Pokemon DPPt - Eterna City.abc
+Pokemon DPPt - Hearthome.abc
+Pokemon DPPt - Jubilife City.abc
+Pokemon DPPt - Route 202.abc
+Pokemon DPPt - Route 205 Drumkit.abc
+Pokemon DPPt - Route 205.abc
+Pokemon DPPt - Route 209.abc
+Pokemon FRLG - Battle vs Deoxys Drumkit.abc
+Pokemon FRLG - Battle vs Deoxys.abc
+Pokemon GSC - A Rival Appears.abc
+Pokemon GSC - Battle vs Champion.abc
+Pokemon GSC - Battle vs Rival.abc
+Pokemon GSC - Battle vs Trainer (Johto).abc
+Pokemon GSC - Battle vs Trainer (Kanto).abc
+Pokemon GSC - Battle vs Wild Pokemon (Johto).abc
+Pokemon GSC - Battle vs Wild Pokemon (Kanto).abc
+Pokemon GSC - Buena's Password Drumkit.abc
+Pokemon GSC - Buena's Password.abc
+Pokemon GSC - Cherrygrove City.abc
+Pokemon GSC - Dragon's Den.abc
+Pokemon GSC - Game Corner.abc
+Pokemon GSC - Goldenrod City.abc
+Pokemon GSC - Lake of Rage Drumkit.abc
+Pokemon GSC - Lake of Rage.abc
+Pokemon GSC - S.S. Aqua.abc
+Pokemon GSC - Vermilion City.abc
+Pokemon Mystery Dungeon - Boss Battle Drumkit.abc
+Pokemon Mystery Dungeon - Boss Battle.abc
+Pokemon Mystery Dungeon - Buried Relic Drumkit.abc
+Pokemon Mystery Dungeon - Buried Relic.abc
+Pokemon Mystery Dungeon - Great Canyon.abc
+Pokemon Mystery Dungeon - Monster House!.abc
+Pokemon Mystery Dungeon - Sky Tower Drumkit.abc
+Pokemon Mystery Dungeon - Sky Tower.abc
+Pokemon Mystery Dungeon - Tiny Woods.abc
+Pokemon Mystery Dungeon - Town Square Drumkit.abc
+Pokemon Mystery Dungeon - Town Square.abc
+Pokemon Mystery Dungeon - Victory Chime.abc
+Pokemon Mystery Dungeon 2 - Outlaw! Drumkit.abc
+Pokemon Mystery Dungeon 2 - Outlaw!.abc
+Pokemon Mystery Dungeon 2 - Primal Dialga.abc
+Pokemon Mystery Dungeon 2 - Spinda Cafe Drumkit.abc
+Pokemon Mystery Dungeon 2 - Spinda Cafe.abc
+Pokemon Mystery Dungeon 2 - Temporal Tower Drumkit.abc
+Pokemon Mystery Dungeon 2 - Temporal Tower.abc
+Pokemon Mystery Dungeon 2 - Treasure Town Drumkit.abc
+Pokemon Mystery Dungeon 2 - Treasure Town.abc
+Pokemon Mystery Dungeon 2 - Wigglytuff's Guild.abc
+Pokemon ORAS - Battle vs Zinna Drumkit.abc
+Pokemon ORAS - Battle vs Zinna.abc
+Pokemon Rangers 2 - Battle vs Sinis Trio Drumkit.abc
+Pokemon Rangers 2 - Battle vs Sinis Trio.abc
+Pokemon RBY - Battle vs Champion.abc
+Pokemon RBY - Battle vs Gym Leader.abc
+Pokemon RBY - Battle vs Trainer.abc
+Pokemon RBY - Celadon City.abc
+Pokemon RBY - Fuchsia City.abc
+Pokemon RBY - Game Corner.abc
+Pokemon RBY - Silph Co..abc
+Pokemon RBY - Team Rocket Hideout Drumkit.abc
+Pokemon RBY - Team Rocket Hideout.abc
+Pokemon RBY - Title Screen.abc
+Pokemon RSE - Abandoned Ship.abc
+Pokemon RSE - Battle vs Champion.abc
+Pokemon RSE - Battle vs Elite 4 Drumkit.abc
+Pokemon RSE - Battle vs Elite 4.abc
+Pokemon RSE - Battle vs Frontier Brain Drumkit.abc
+Pokemon RSE - Battle vs Frontier Brain.abc
+Pokemon RSE - Battle vs Rayquaza.abc
+Pokemon RSE - Contest!.abc
+Pokemon RSE - Fortree City.abc
+Pokemon RSE - Meteor Falls.abc
+Pokemon RSE - Slateport City.abc
+Pokemon RSE - Title Screen.abc
+Pokemon TCG - Duel.abc
+Pokemon TCG - Imakuni Drumkit.abc
+Pokemon TCG - Imakuni.abc
+Pokemon TCG - Title Screen.abc
+Runescape - Autumn Voyage.abc
+Runescape - Camelot.abc
+Runescape - Dream.abc
+Runescape - Harmony.abc
+Runescape - Main Theme Drumkit.abc
+Runescape - Main Theme.abc
+Runescape - Sea Shanty 2.abc
+Runescape - Sea Shanty.abc
+Schubert - Ave Maria Both.abc
+Schubert - Ave Maria Piano.abc
+Schubert - Ave Maria Solo.abc
+Scott Joplin - Searchlight Rag Both.abc
+Scott Joplin - Searchlight Rag Piano.abc
+Scott Joplin - Searchlight Rag Solo.abc
+Scott Joplin - The Entertainer Both.abc
+Scott Joplin - The Entertainer Piano.abc
+Scott Joplin - The Entertainer Solo.abc
+Sonic & Knuckles - Death Egg Zone Drumkit.abc
+Sonic & Knuckles - Death Egg Zone.abc
+Sonic & Knuckles - Doomsday Zone Drumkit.abc
+Sonic & Knuckles - Doomsday Zone.abc
+Sonic & Knuckles - Flying Battery Drumkit.abc
+Sonic & Knuckles - Flying Battery.abc
+Sonic & Knuckles - Lava Reef Zone.abc
+Sonic & Knuckles - Mushroom Hill Zone Drumkit.abc
+Sonic & Knuckles - Mushroom Hill Zone.abc
+Sonic & Knuckles - Sandopolis Zone Drumkit.abc
+Sonic & Knuckles - Sandopolis Zone.abc
+Sonic & Knuckles - Sky Sanctuary Drumkit.abc
+Sonic & Knuckles - Sky Sanctuary.abc
+Sonic - Green Hill Zone Drumkit.abc
+Sonic - Green Hill Zone.abc
+Sonic - Marble Hill Zone.abc
+Sonic - Spring Yard Zone Drumkit.abc
+Sonic - Spring Yard Zone.abc
+Sonic 2 - Casino Night Zone Drumkit.abc
+Sonic 2 - Casino Night Zone.abc
+Sonic 2 - Chemical Plant Zone Drumkit.abc
+Sonic 2 - Chemical Plant Zone.abc
+Sonic 2 - Emerald Hill Zone Drumkit.abc
+Sonic 2 - Emerald Hill Zone.abc
+Sonic 2 - Metropolis Zone Drumkit.abc
+Sonic 2 - Metropolis Zone.abc
+Sonic 2 - Oil Ocean Drumkit.abc
+Sonic 2 - Oil Ocean.abc
+Sonic 3 - Angel Island Drumkit.abc
+Sonic 3 - Angel Island.abc
+Sonic 3 - Carnival Night Zone Drumkit.abc
+Sonic 3 - Carnival Night Zone.abc
+Sonic 3 - Hydrocity Drumkit.abc
+Sonic 3 - Hydrocity.abc
+Sonic 3 - Ice Cap Zone.abc
+Sonic 3 - Launch Base Zone Drumkit.abc
+Sonic 3 - Launch Base Zone.abc
+Sonic 3 - Marble Garden Zone Drumkit.abc
+Sonic 3 - Marble Garden Zone.abc
+Sonic Adventure - Chao Garden Drumkit.abc
+Sonic Adventure - Chao Garden.abc
+Sonic Adventure - Emerald Coast Drumkit.abc
+Sonic Adventure - Emerald Coast.abc
+Sonic Adventure - Radical Highway Drumkit.abc
+Sonic Adventure - Radical Highway.abc
+Sonic Adventure - Red Mountain Drumkit.abc
+Sonic Adventure - Red Mountain.abc
+Sonic Adventure - Windy Valley Drumkit.abc
+Sonic Adventure - Windy Valley.abc
+Sonic Adventure 2 - Chao Garden Drumkit.abc
+Sonic Adventure 2 - Chao Garden.abc
+Sonic Adventure 2 - Final Rush Drumkit.abc
+Sonic Adventure 2 - Final Rush.abc
+Sonic Adventure 2 - Live and Learn Drumkit.abc
+Sonic Adventure 2 - Live and Learn.abc
+Sonic Adventure 2 - Metal Harbour Drumkit.abc
+Sonic Adventure 2 - Metal Harbour.abc
+Sonic Adventure 2 - Pumpkin Hill Drumkit.abc
+Sonic Adventure 2 - Pumpkin Hill.abc
+Sonic Adventure 2 - Radical Highway Drumkit.abc
+Sonic Adventure 2 - Radical Highway.abc
+Star Spangled Banner.abc
+Star Wars - Opening Theme Drumkit.abc
+Star Wars - Opening Theme.abc
+Star Wars Episode I - Duel of Fates.abc
+Star Wars Episode II - Across the Stars.abc
+Star Wars Episode III - Jedi Temple March Drumkit.abc
+Star Wars Episode III - Jedi Temple March.abc
+Star Wars Episode IV - End Credits Drumkit.abc
+Star Wars Episode IV - End Credits.abc
+Star Wars Episode V - May The Force Be With You.abc
+Star Wars Episode VI - Into the Trap.abc
+Star Wars Episode VI - Jedi Rocks Drumkit.abc
+Star Wars Episode VI - Jedi Rocks.abc
+Star Wars KotOR - Ahto City.abc
+Star Wars KotOR - Dantooine.abc
+Star Wars KotOR - Darth Malak.abc
+Star Wars KotOR - Endar Spire.abc
+Star Wars KotOR - Taris Hideout.abc
+Star Wars KotOR II - Rebuilt Jedi Enclave.abc
+Star Wars KotOR II - Sith Theme.abc
+Super Mario Maker - SMB1 Airship.abc
+Super Metroid - Boss Theme.abc
+Super Metroid - Crateria Surface.abc
+Super Metroid - Crateria Underground.abc
+Super Metroid - Deep Maridia.abc
+Super Metroid - Green Brinstar Drumkit.abc
+Super Metroid - Green Brinstar.abc
+Super Metroid - Mid Boss Theme.abc
+Super Metroid - Red Brinstar.abc
+Super Smash Bros Brawl - Final Destination.abc
+Team Fortress 2 - Kazotsky Kick Drumkit.abc
+Team Fortress 2 - Kazotsky Kick.abc
+Team Fortress 2 - Rockey Jump Waltz Both.abc
+Team Fortress 2 - Rockey Jump Waltz Piano.abc
+Team Fortress 2 - Rockey Jump Waltz Solo.abc
+Team Fortress 2 - Uncle Dane Theme (Frontier Justice).abc
+Terraria - Boss 1 Drumkit.abc
+Terraria - Boss 1.abc
+Terraria - Boss 2 Drumkit.abc
+Terraria - Boss 2.abc
+Terraria - Boss 3.abc
+Terraria - Frost Moon.abc
+Terraria - Lunar Towers.abc
+Terraria - Overworld Day.abc
+Terraria - Solar Eclipse.abc
+Thomas Tank Engine - Drumkit.abc
+Thomas Tank Engine.abc
+Touhou - Beloved Tomboyish Girl Drumkit.abc
+Touhou - Beloved Tomboyish Girl.abc
+Touhou - Flowering Night.abc
+Touhou - Night of Nights.abc
+Touhou - Shanghai Alice of Meiji Drumkit.abc
+Touhou - Shanghai Alice of Meiji.abc
+Touhou - UN Owen Was Her Drumkit.abc
+Touhou - UN Owen Was Her.abc
+Tzar - Track 01.abc
+Tzar - Track 02.abc
+Tzar - Track 03.abc
+Tzar - Track 04.abc
+Tzar - Track 05.abc
+Tzar - Track 06.abc
+Tzar - Track 07.abc
+Tzar - Track 08.abc
+Tzar - Track 09.abc
+Tzar - Track 10.abc
+USSR National Anthem.abc
+Waterflame - Glorious Morning Drumkit.abc
+Waterflame - Glorious Morning.abc
+Waterflame - Time Machine.abc
+xi - Akasha.abc
+xi - Freedom Dive Drumkit.abc
+xi - Freedom Dive.abc
+Yiruma - River Flows in You.abc
+Yoshi's Island - Boss Battle Drumkit.abc
+Yoshi's Island - Boss Battle.abc
+Yoshi's Island - Hop Hop Donut Lifts.abc
+Yoshi's Island - Touch Fuzzy Get Dizzy.abc
