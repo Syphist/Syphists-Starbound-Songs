@@ -1,0 +1,1 @@
+Get-ChildItem -Path ./songs -Name > ./songlist.txt
