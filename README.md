@@ -1,13 +1,13 @@
 # Syphists-Starbound-Songs
 Adds some extra songs to starbound.
 
-This pack includes song(s) from the artists and/or games (including but not limited to): Waterflame, Tzar Burden of the Crown, Touhou, Halo, Cave Story, Metroid, Super Metroid, Pokemon, DOOM, Runescape, Sonic, Super Mario 64, Homestuck, xi, Minecraft, Yoshi's Island, Megaman, Final Fantasy (Japanese Numbers used), LoZ Breath of the Wild, Mario Kart Super Circuit, Overwatch, Team Fortress 2, Star Wars, A Hat in Time, Spongebob, Nintendo Wii, and System of a Down
+This pack includes song(s) from the artists and/or games (including but not limited to): Waterflame, Tzar Burden of the Crown, Touhou, Halo, Cave Story, Metroid, Super Metroid, Pokemon, DOOM, Runescape, Sonic, Super Mario 64, Super Mario Sunshine, Homestuck, xi, Minecraft, Yoshi's Island, Megaman, Final Fantasy (Japanese Numbers used), LoZ Breath of the Wild, Mario Kart Super Circuit, Mario Kart Wii, Overwatch, Team Fortress 2, Star Wars, A Hat in Time, Spongebob, Nintendo Wii, and System of a Down
 
 View the full file list here:
 https://github.com/Syphist/Syphists-Starbound-Songs/blob/master/songlist.txt
 
 DRM Free version can be downloaded here:
-https://github.com/Syphist/Syphists-Starbound-Songs/releases/tag/1.7.1
+https://github.com/Syphist/Syphists-Starbound-Songs/releases/tag/1.8
 
 Most drumkit parts should be optional and are there to give your friend something to do and to not make the instrument useless. All parts marked as "Solo" are played with the part labeled "Piano", to play both parts at once select the one labeled "Both". (I don't wanna penalize people who like to play single player) This pack is also designed to resonate more or less with CrazyFreak's Musical Collection (found here: http://steamcommunity.com/sharedfiles/filedetails/?id=729773633 ). If you have any questions or suggestions feel free to comment.
 
